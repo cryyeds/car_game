@@ -1,3 +1,7 @@
+## Made By
+  - Jose Gonzalez
+  - William Hale
+    
 ## Original idea
 
 We wanted to make a racing game for our CS project that feels like a real game
